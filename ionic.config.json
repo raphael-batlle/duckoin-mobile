@@ -1,0 +1,8 @@
+{
+  "name": "duckoin",
+  "app_id": "7baa31c1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
